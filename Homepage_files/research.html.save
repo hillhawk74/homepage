@@ -1,0 +1,420 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<body bgcolor="#ffffff" background="dragon.jpg">         
+<center><table cellpadding="4" width="750"> 
+<!--</tbody></tr><br>
+<td align="left" width="750">               
+<p>
+        <b><font size="+1" color="#001ba5">Research Interests</font></b> </p>
+          <ul>
+          <li> Scientific computation and numerical analysis.</li>
+          <li> Parallel algorithms and high-performance computing.</li>
+          <li> Exact boundary controllability problems for the wave equation.</li>
+          <li> Image processing.</li>
+          </ul> 
+</tr>
+</tbody></table></center>
+ <hr width="750">       --> 
+         
+<center><table cellpadding="4" width="750"> 
+</tbody></tr>
+<td align="left" width="750">  
+<p>
+         <b><font size="+1" color="#001ba5">Computing Skills</font></b> </p>
+         <ul>
+         <li> Operating Systems:&nbsp; <i>UNIX/Linux, Windows.</i></li>
+         <li> Programming Languages:&nbsp; <i>Fortran77/90, C/C++, Java, 
+              Matlab.</i></li>
+         <li> Parallel Environments:&nbsp; <i>MPI, PVM, OpenMP.</i></li>
+         </ul>
+</tr>
+</tbody></table></center>
+ 
+<hr width="750"> 
+<center><table cellpadding="4" width="750">
+</tbody></tr>
+<td align="left" width="750">
+<p>
+        <b><font size="+1" color="#001ba5">Grant Supports</font></b> 
+</p>
+         <ul>
+       <li> National Science Foundation, DMS-0913491, PI, 2009-2012.
+<!--$180,000--></li>
+         <li> Department of Energy, DE-FG02-07ER64431, PI, 2007-2011. 
+<!--$236,871--></li>
+         <li> National Science Foundation, DMS-0609575, PI, 2006-2009. 
+<!--$122,781--></li>
+         <li> South Carolina Research Foundation, RPS-13060-06-12306, PI, 
+              2006-2007. <!--$5,000--></li>
+         </ul>
+</tr>
+</tbody></table></center>
+<hr width="750">
+
+<!--      
+          <li> Department of Energy, DE-FG02-07ER64431, ``New Grid and
+               Discretization Technologies for
+               Ocean and Ice Simulations'', PI, 2007/7-2011/6, $236,871.
+          <li> National Science Foundation, DMS-0609575, ``Some Problems on Analyses
+              and Applications of Centroidal Voronoi Tessellations'',PI, $122,781,
+              2006/8-2009/7.</li>
+         <li> USC Research Foundation, RPS-13060-06-12306, ``Some Applications
+              of Centroidal Voronoi Tessellations'', PI, $5,000, 2006/4-2007/6.</li>
+         </ul>-->
+
+
+<center><table cellpadding="4" width="750"> 
+</tbody></tr>
+   <td align="left" width="750">              
+<p>
+        <b><font size="+1" color="#001ba5">Publications</font></b> 
+</p>
+<b>Papers</b>
+       <ul>      
+       <li> ``Parallel implementation of a pressure-correction projection method 
+            for the unsteady incompressible Navier-Stokes equations'',
+            <i><b>Mathematica Numerica Sinica</b></i>, Vol. <b>20</b>, pp. 325-336, 1998; 
+            with L.B. Zhang. 
+            </li>
+
+       <li> ``Probabilistic methods for centroidal Voronoi tessellations and their
+             parallel implementations'', <i><b>Parallel Computing</b></i>,
+             Vol. <b>28</b>, pp. 1477-1500, 2002; with Q. Du and M. Gunzburger. 
+            </li>
+
+       <li> ``Meshfree, probabilistic determination of point
+            sets and support regions for meshless computing'', 
+            <i><b>Computer Methods in Applied Mechanics and Engineering</b></i>, Vol. <b>191</b>, pp. 
+            1349-1366, 2002; with Q. Du and M. Gunzburger. 
+            </li>   
+
+       <li> ``A numerical method for controllability problems 
+            for the wave equation'', <!--<i> Hyperbolic Problems: Theory, Numerics, 
+            Applications</i>,-->
+            <i><b>Proceedings of the Ninth International Conference on Hyperbolic Problems</b></i>,
+            Pasadena, March, pp. 557-568, 2002; with M. Gunzburger and L.S. Hou.
+            </li>
+
+       <li> ``Comparing the performance of MPICH with Cray's
+             MPI and with SGI's MPI'', <i><b>Concurrency and Computation:
+             Practice and Experience</b></i>, Vol. <b>15</b>, pp. 779-802, 2003;
+             with G. Luecke and M. Kraeva.
+             </li>
+
+       <li> ``Constrained centroidal Voronoi tessellations for surfaces'', 
+             <i><b>SIAM Journal on Scientific Computing</b></i>, Vol. <b>24</b>, pp. 1488-1506, 2003; 
+             with Q. Du and M. Gunzburger. 
+             </li>
+
+       <li> ``Approximation of exact boundary controllability problems for the 
+            1-D wave equation by optimization based methods'', <i><b>Contemporary 
+            Mathematics</b></i>, Vol. <b>330</b>, pp. 133-153, 2003; with 
+            M. Gunzburger and L.S. Hou.
+            </li>
+
+       <li> ``Voronoi-based finite volume methods, optimal Voronoi meshes, 
+            and PDEs on the sphere'', <i><b>Computer Methods in Applied Mechanics    
+            and Engineering</b></i>, Vol. <b>192</b>, pp. 3933-3957, 2003; with Q.
+            Du and  M.  Gunzburger. 
+            </li>
+
+       <li> ``Cortical surface flattening using least square conformal
+            mapping with minimal metric distortion'', <i><b>Proceedings       
+            of the Second International Symposium on Biomedical Imaging</b></i> (ISBI'04), pp. 77-80, 
+            Arlington, VA, April, 2004; with D. 
+	    Rottenberg  and <i>et al..</i>
+             </li>
+
+       <li> ``Numerical simulations of the quantized vortices in a thin
+            superconducting hollow sphere'', <i><b>Journal of Computational
+            Physics</b></i>, Vol. <b>201</b>, pp. 511-530, 2004; with Q. Du.
+            </li> 
+
+        <li> ``Approximations of a Ginzburg-Landau model for superconducting
+              hollow spheres based on spherical centroidal Voronoi 
+              tessellations'', <i><b>Mathematics of Computation</b></i>, Vol. <b>74</b>, pp. 1257-1280, 
+              2005; with Q. Du.
+              </li>
+
+       <li> ``Finite volume methods on spheres and spherical centroidal
+             Voronoi meshes'', <i><b>SIAM Journal on Numerical Analysis</b></i>, Vol. <b>43</b>, pp. 
+             1673-1692, 2005; with Q. Du.
+              </li> 
+
+        <li> ``Quantitative evaluation of three cortical surface flattening
+             methods'', <i><b>Neuroimage</b></i>, Vol. <b>28</b>, pp. 869-880, 2005; with D.
+             Rottenberg and <i>et al..</i> 
+             </li>
+
+       <li> ``Convergence of the Lloyd algorithm for computing centroidal Voronoi 
+            tessellations'', <i><b>SIAM Journal on Numerical Analysis</b></i>,  Vol. <b>44</b>, pp.
+            102-119, 2006; with Q. Du and M. Emelianenko.
+             </li> 
+
+       <li> ``Centroidal Voronoi tessellation algorithms for image compression,
+             segmentation, and multichannel restoration'', <i><b>Journal of Mathematical
+             Imaging and Vision</b></i>,  Vol. <b>24</b>, pp.
+             177-194, 2006; with Q. Du, M. Gunzburger and X. Wang.
+             </li>
+       
+       <li> ``A numerical method for exact boundary controllability
+            problems for the 2-D wave equation'', <i><b>Computer & Mathematics with 
+            Applications</b></i>, Vol. 
+            <b>51</b>, pp. 721-750, 2006; with M. Gunzburger and L.S. Hou.
+            </li>
+
+       <li> ``Adaptive finite element methods for elliptic PDEs based on conforming
+            centroidal Voronoi Delaunay triangulations'', <i><b>SIAM Journal on Scientific 
+            Computing</b></i>,
+            Vol. <b>28</b>, pp. 2023-2053, 2006; with M. Gunzburger and W.-D. Zhao.
+            </li>       
+
+       <li> ``Conforming centroidal Voronoi Delaunay triangulation for
+             quality mesh generation'', <i><b>International Journal of Numerical Analysis and 
+             Modeling</b></i>, Vol. <b>4</b>, 
+             pp. 531-547, 2007. 
+             </li>
+             
+       <li> ``Numerical simulations of the steady Navier-Stokes equations
+               using adaptive meshing schemes'', <i><b>International Journal for Numerical Methods 
+               in Fluids</b></i>, Vol. <b>56</b>, pp. 703-721, 2008; with H.-C. Lee and L. Tian.
+              </li>
+
+        <li> ``Nondegeneracy and weak global convergence of the Lloyd algorithm in R^d'',  
+            <i><b>SIAM Journal on Numerical
+            Analysis</b></i>, Vol. <b>46</b>, pp. 1423-1441, 2008;
+              with M. Emelianenko and A. Rand.
+              </li>
+
+       <li> ``Convergence analysis of a splitting method for stochastic differential equations'',
+            <i><b>International Journal of Numerical Analysis and
+             Modeling</b></i>,  Vol. <b>5</b>, pp. 673-692, 2008; with W.-D. Zhao and L. Tian.
+            </li>
+
+       <li> ``Effects of director angle anchoring conditions on the dynamic moduli of
+             heterogeneous nematic polymers", <i><b>Proceedings of
+             the XVth International Congress on Rheology</b></i>, pp. 481-483, Monterey, 
+             CA, August, 2008; with E. Choate, M. 
+             Gorrest and Z. Cui.
+              </li>
+
+       <li> ``A multi-resolution method for
+              climate system modeling'', <i><b> Ocean Dynamics</b></i>, Vol. <b>58</b>, pp. 475-498, 2008;
+              with T. Ringler and M. Gunzburger.
+              <!--<a href="../my_papers/mrcsm.pdf" "target="frame2"> [pdf]</a>--></li>
+
+       <li> ``Constrained CVT meshes and a comparison of triangular mesh generators'',
+             <i><b> Computational Geometry: Theory and  Applications</b></i>,
+             Vol. <b>42</b>, pp. 1-19, 2009; with H. Nguyen, J. Burkardt, M. Gunzburger and Yuki
+             Saka. 
+             </li>      
+
+       <li> ``A finite volume method on general surfaces and its error estimates'',
+             <i><b>Journal of Mathematical Analysis and Applications</b></i>, Vol. <b>352</b>,
+              pp. 645-668, 2009;
+              with Qiang Du.
+             <!--<a href="../my_papers/sci_fvmgs.pdf" "target="frame2"> [pdf]</a>-->
+             </li>
+
+       <li> ``A posteriori error estimates for finite volume approximations of
+              elliptic equations on general surfaces'', <i><b>Computer Methods in Applied Mechanics
+            and Engineering</b></i>, Vol. <b>198</b>, pp. 716-726, 2009; with
+              L. Tian and D. Wang.
+              <!--<a href="../my_papers/sci_pefvmgs.pdf" "target="frame2"> [pdf]</a>-->
+             </li>
+
+       <li> ``Analysis of a mixed finite-volume discretization for
+             fourth-order equations
+             on general surfaces'', <i><b>IMA Journal of Numerical
+            Analysis</b></i>, Vol. <b>29</b>, pp. 376-403, 2009;  with Q. Du and L. Tian.
+             <!--<a href="../my_papers/sci_fvmgsbi.pdf" "target="frame2"> [pdf]</a>-->
+             </li>
+
+
+       <li> ``Adaptive finite volume methods for steady convection-diffusion
+              equations with mesh optimization'',  <i><b> Discrete and Continuous Dynamical
+              Systems B</b></i>, Vol. <b>11</b>, pp. 669-690, 2009; with W. Wu and W.-D. Zhao.
+             <!--<a href="../my_papers/sci_afvm4cd.pdf" "target="frame2"> [pdf]</a>-->
+              </li>
+
+       <li> ``Adaptive anisotropic meshing for steady  convection-dominated problems'',
+             <i><b>Computer Methods in Applied Mechanics
+            and Engineering</b></i>,
+             Vol. <b>198</b>, pp. 2964-2981, 2009; with H. Nguyen, J. Burkardt and M. Gunzburger.
+             <!--<a href="../my_papers/sci_acvt.pdf" "target="frame2"> [pdf]</a>--></li>
+
+
+      <li> ``An edge-weighted centroidal Voronoi tessellation model for image
+              segmentation'', <i><b> IEEE Transactions on Image Processing</b></i>, Vol. <b>18</b>, pp. 1844-1858, 2009; with J. 
+              Wang and X. Wang.
+              <!--<a href="../my_papers/sci_isewcvt.pdf" "target="frame2"> [pdf]</a>--></li>
+
+       <li> ``3D open-surface shape correspondence for statistical shape modeling:
+            Identifying topologically consistent landmarks'', <i><b>Proceedings of the Twelfth International 
+            Conference on Computer Vision</b></i> (ICCV'09), pp. 1857-1864,
+              Kyoto, Japan, September-October, 2009; with P. Dahal, S. Wang and et. al..
+      
+       <li> ``A variational phase field method for curve smoothing'', <i><b>Journal of Computational Physics</b></i>, 
+              Vol. <b>229</b>, pp. 2390-2400, 2010;
+            with L. Zhu, Y. Wang and D. Wang.
+
+      <li> ``Advances in studies and applications of centroidal Voronoi tessellations'',
+             <i><b> Numerical Mathematics: Theory, Methods and Applications</b></i>,  Vol. <b>3</b>, pp. 119-142, 2010;
+              with Q. Du and M. Gunzburger.
+
+       <li> ``Effects of strong anchoring on the dynamic moduli of heterogeneous nematic polymers II: Oblique 
+           anchoring angles'', <i><b>Rheologica Acta</b></i>, Vol. <b>49</b>, pp. 335-347, 2010; with E. Choate and M. Forest.
+
+      <li> ``A stable multi-step scheme for solving backward stochastic differential equations'',
+             <i><b>SIAM Journal on Numerical Analysis</b></i>, Vol. <b>48</b>, pp. 1369-1394, 2010; with W.-D. Zhao and G. Zhang.
+
+        <li> ``Voronoi diagrams and their application to climate and global modeling'', <i><b>Lecture Notes in Computational Science
+            and Engineering</b> - Numerical Techniques for Global Atmospheric Models</i>,
+	     Springer, to appear; with T. Ringler and M. Gunzburger.
+
+      <li>  ``Coupled models and  parallel simulations for three dimensional
+             full-Stokes ice
+            sheet modeling'', submitted; with H. Zhang and et. al.
+
+       <li> ``Finite element approximation of the Cahn-Hilliard equations 
+             on surfaces", submitted; with Q. Du and L. Tian. </li>
+
+      <li>  ``Image segmentation using local variation and edge-weighted centroidal Voronoi tessellations'', 
+             submitted; with J. Wang and X. Wang. 
+ 
+       <li> ``Generalized edge-weighted centroidal Voronoi
+           tessellations for geometry smoothing'',  submitted;  with Y. Wang, D. Wang and X. Wang.
+
+      <li> ``Parallel high-order finite element implementation for full-stokes
+             ice sheet modeling and benchmark experiments'', preprint; with W. Leng and et. al.
+     
+      <li> ``Stable grid-upwinding finite volume approximations of convection-diffusion
+           equations'', preprint; with X. Xiao, L. Tian, and W. Zhao.
+
+      <li>  ``Simulation of the shallow-water equations on variable-resolution C-grids'',
+            in preparation; with T. Ringler and et. al.
+
+    </ul>           
+<b>Abstracts</b>
+       <ul>
+       <li> ``Probabilistic algorithms for
+            determining non-uniformly distributed point sets and support'',
+            <i><b>Proceedings of the Sixth US National Congress on Computational Mechanics</b></i>,
+            pp. 21, Dearborn, MI, August 2001; with Q. Du and M. Gunzburger. </li>
+        <li> ``Cortical surface flattening using discrete conformal
+	      mapping with minimal metric distortion'', <i><b> NeuroImage</b></i>, Vol. <b>19</b>,
+      	      Supplement 1, Abstract 865, 2003; with D. Rottenberg and  et. al. </li>
+        <li> ``Evaluation of three cortical surface flattening methods'', <i><b>NeuroImage</b></i>, Vol.
+             <b>22</b>, Supplement 1, Abstract WE-207, 2004; with D. Rottenberg and  et. al. </li>
+        <li> ``ParcelMan and Pigment: interactive tools for parcellation of cortical
+             grey matter'', <i><b> NeuroImage</b></i>, Vol. <b>22</b>, Supplement 1, Abstract
+             WE-287, 2004; with K. Rehm, D. Rottenberg and  et. al. </li>
+        <li> ``The dependence of the dynamic moduli on the director
+              angle anchoring condition for heterogeneous nematic polymers'', <i><b>Proceedings of the Ninth
+              International Conference on Mathematical  and Numerical Aspects of Waves 
+              Propagation</b></i>, Pau, 
+              France, June 2009; with E. Choate and M. Forrest.
+       </ul>
+</tr>
+</tbody></table></center>
+
+
+<hr width="750"> 
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left" >
+<img src="nex.gif" hspace="6" width="15"><b>My Collaborators</b>:
+<a href="http://www.scs.fsu.edu/~gunzburg" target="_blank">
+Max Gunzburger</a>,
+<a href="http://www.math.psu.edu/qdu" target="_blank">
+Qiang Du</a>,
+<a href="http://neurovia.umn.edu/home/dar" target="_blank">
+David Rottenberg</a>,
+<a href="http://www.math.iastate.edu/hou" target="_blank">
+Steven Hou</a>,
+<a href="http://www.scs.fsu.edu/~xwang" target="_blank">
+Xiaoqiang Wang</a>,
+<a href="http://math.gmu.edu/~memelian" target="_blank">
+Maria Emelianenko</a>,
+<a href="http://www.cse.sc.edu/~songwang" target="_blank">
+Song Wang</a>, 
+<a href="http://madang.ajou.ac.kr/~hclee" target="_blank">
+Hyung-Chun Lee</a>, 
+<a href="http://public.lanl.gov/ringler/ringler.html" target="_blank">
+Todd Ringler</a>, 
+<a href="http://www.ntu.edu.sg/home/desheng/" target="_blank">
+Desheng Wang</a>,
+<a href="http://www.amath.unc.edu/Faculty/forest/" target="_blank">
+M. Forest</a>,
+<a href="http://mathserver.sdu.edu.cn/html/professor/gehai/zhao%20weidong.htm" target="_blank">
+Weidong Zhao</a>,
+<a href="http://www.arc.vt.edu/arc/staff/burkardt.php" target="_blank">
+John Burkardt</a>,
+
+...
+<br>
+<br>
+</tr>
+</tbody></table></center>
+
+
+<hr width="750">
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left" >
+<img src="nex.gif" hspace="6" width="15"><b>Past Ph.D. Students</b>:
+<a href="http://www.math.psu.edu/tian" target="_blank">
+Li Tian</a>
+<br>
+<br>
+</tr>
+</tbody></table></center>
+
+
+
+<hr width="750">
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left">
+<img src="nex.gif" hspace="6" width="15">
+<a href="../my_resume/rs.pdf">
+<b>Research Statement</b></a>
+<br>
+<br>
+<!--
+</tr>
+</tbody></table></center>
+<hr width="750">
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left">
+<img src="nex.gif" hspace="6" width="15">
+<a href="../my_resume/ts.pdf">
+<b>Teaching Statement</b></a>
+<br><br>
+</tr>-->
+</tbody></table></center>
+
+<hr width="750">
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left">
+<img src="nex.gif" hspace="6" width="15">
+<a href="talks.html">
+<b>Seminars and Conferences</b></a>
+<br><br>
+</tr>
+</tbody></table></center>
+<hr width="750">
+<br>
+</body>
+</html>

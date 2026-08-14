@@ -1,0 +1,101 @@
+<html><head>
+<script language="JavaScript">
+
+<!-- begin
+var id,pause=0,position=0;
+function scrollingMsg() {
+        var i,k,message=" Welcome to Lili Ju's Home Page! ", msg=message;
+        k=(80/msg.length)+1;
+        for(i=0;i<=k;i++) msg+=" "+msg;
+        //document.form1.welcome.value=msg.substring(position,position+50);
+
+        window.status=msg.substring(position,position+80);
+
+        if(position++==message.length) position=0;
+	
+	now = new Date();
+
+	var curTime = "";
+	month = now.getMonth()+1;
+	if (month < 10)
+	{
+	  curTime += "0";
+	}
+	curTime += month+"/";
+	date = now.getDate();
+	if (date<10)
+	{
+		curTime += "0";
+	}
+	curTime += date+"/";
+        year = now.getYear()
+        if (year<1000)
+	{
+		year = year-100+2000;
+	}
+	curTime += year+" ";
+	document.form1.date.value=curTime;
+	
+        curTime = "";        
+	hours=now.getHours();
+	if (hours < 10)
+	{
+		curTime += "0";
+	}
+	if (hours > 12)
+	{
+            if (hours < 22) {
+                curTime += "0";
+            }
+            curTime += (hours-12);    
+	}
+	else
+	{
+		curTime += hours;
+	}
+	curTime += ":";
+	minutes = now.getMinutes();
+	if (minutes < 10)
+	{
+		curTime += "0"
+	}
+	curTime += minutes+":";
+	seconds = now.getSeconds();
+	if (seconds < 10)
+	{
+		curTime += "0";
+	}
+	curTime += seconds+"";
+	if (hours < 12)
+	{
+		curTime += "am";
+	}
+	else
+	{
+		curTime += "pm";
+	}
+	document.form2.time.value=curTime;
+        id=setTimeout("scrollingMsg()",1000/5); }
+//-->
+</script></head><body background="light.jpg" onload="scrollingMsg()">
+<table align="left" hspace="1" cellpadding="1" 
+cellspacing="1" border="0">
+<tr>
+<td>
+<form name="form1">
+<a name="time"><input name="date" value="" size="10"></form>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<form name="form2">
+<a name="time"><input name="time" value="" size="10"></form>
+</td>
+</tr>
+<br>
+</table>
+<br>
+</body></html>
+
+

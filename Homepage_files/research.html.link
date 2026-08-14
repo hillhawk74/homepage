@@ -1,0 +1,219 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<body bgcolor="#ffffff" background="dragon.jpg">         
+<center><table cellpadding="4" width="750"> 
+</tbody></tr><br>
+<td align="left" width="750">               
+<p>
+        <b><font size="+1" color="#001ba5">Research Interests</font></b> </p>
+          <ul>
+          <li> Scientific computation and numerical analysis.</li>
+          <li> Exact boundary controllability problems for the wave equation.</li>
+          <li> Parallel algorithms and high-performance computing.</li>
+          <li> Image processing.</li>
+          </ul> 
+</tr>
+</tbody></table></center>
+ <hr width="750">        
+         
+<center><table cellpadding="4" width="750"> 
+</tbody></tr>
+<td align="left" width="750">  
+<p>
+         <b><font size="+1" color="#001ba5">Computing Skills</font></b> </p>
+         <ul>
+         <li> Operating Systems:&nbsp; <i>UNIX/Linux, Windows.</i></li>
+         <li> Programming Languages:&nbsp; <i>Fortran77/90, C/C++, Java, 
+              Matlab.</i></li>
+         <li> Parallel Environments:&nbsp; <i>MPI, PVM, OpenMP.</i></li>
+         </ul>
+</tr>
+</tbody></table></center>
+ 
+<hr width="750"> 
+<!--
+<center><table cellpadding="4" width="750">
+</tbody></tr>
+<td align="left" width="750">
+<p>
+         <b><font size="+1" color="#001ba5">Current Grants</font></b> </p>
+         <ul>
+         <li> National Science Foundation, DMS-0609575, ``Some Problems on Analyses 
+              and Applications of Centroidal Voronoi Tessellations'',PI, 2006/7-2009/7.</li>
+         <li> University of South Carolina, RPS-13060-06-12306, ``Some Applications 
+              of Centroidal Voronoi Tessellations'', PI, 2006/4-2007/6.</li>
+         </ul>
+</tr>
+</tbody></table></center>
+
+<hr width="750">
+-->
+
+<center><table cellpadding="4" width="750"> 
+</tbody></tr>
+   <td align="left" width="750">              
+<p>
+        <b><font size="+1" color="#001ba5">Publications</font></b> 
+</p>
+       <ul>      
+       <li> ``Parallel implementation of a pressure-correction projection method 
+            for the unsteady incompressible Navier-Stokes equations'',
+            <i>Math. Numer. Sin</i>., Vol. <b>20</b>, pp. 325-336, 1998; 
+            with L.B. Zhang. 
+            <a href="../my_papers/sci_pinse.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Probabilistic methods for centroidal Voronoi tessellations and their
+             parallel implementations'', <i>Parallel Computing</i>,
+             Vol. <b>28</b>, pp. 1477-1500, 2002; with Q. Du and M. Gunzburger.
+             <a href="../my_papers/sci_pcvt.pdf" "target="frame2"> (pdf file)</a> </li>   
+
+       <li> ``Meshfree, probabilistic determination of point
+            sets and support regions for meshless computing'', 
+            <i>Comput. Meths. Appl. Mech. Engrg.</i>, Vol. <b>191</b>, pp. 
+            1349-1366, 2002; with Q. Du and M. Gunzburger.    
+            <a href="../my_papers/sci_pdmlc.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``A numerical method for controllability problems 
+            for the wave equation'', <i> Hyperbolic Problems: Theory, Numerics, 
+            Applications</i>,
+            <!--<b>Proceedings of the Ninth International Conference on Hyperbolic Problems</b>,-->
+            Pasadena, March, pp. 557-568, 2002; with M. Gunzburger and L.S. Hou.
+            <a href="../my_papers/sci_wave.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Comparing the performance of MPICH with Cray's
+             MPI and with SGI's MPI'', <i>Concurrency Computat.:
+             Pract. and Exper.</i>, Vol. <b>15</b>, pp. 779-802, 2003;
+             with G. Luecke and M. Kraeva.
+             <a href="../my_papers/sci_cmpi.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Constrained centroidal Voronoi tessellations for surfaces'', 
+             <i>SIAM J. Sci. Comput.</i>, Vol. <b>24</b>, pp. 1488-1506, 2003; 
+             with Q. Du and M. Gunzburger. 
+             <a href="../my_papers/sci_ccvt.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Approximation of exact boundary controllability problems for the 
+            1-D wave equation by optimization based methods'', <i>Contemporary 
+            Mathematics</i>, Vol. <b>330</b>, pp. 133-153, 2003; with 
+            M. Gunzburger and L.S. Hou.
+            <a href="../my_papers/sci_wave1d.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Voronoi-based finite volume methods, optimal Voronoi meshes, 
+            and PDEs on the sphere'', <i>Comput. Meths. Appl. Mech.    
+            Engrg.</i>, Vol. <b>192</b>, pp. 3933-3957, 2003; with Q.
+            Du and  M.  Gunzburger. 
+            <a href="../my_papers/sci_fvmspde.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Cortical surface flattening using least square conformal
+            mapping with minimal metric distortion'', <i>Proceedings       
+            of ISBI'04</i>, pp. 77-80, Arlington,  April, 2004; with D. 
+	    Rottenberg  and <i>et al..</i>
+            <a href="../my_papers/sci_csflscm.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Numerical simulations of the quantized vortices in a thin
+            superconducting hollow sphere'', <i>J. Comput.
+            Physics</i>, Vol. <b>201</b>, pp. 511-530, 2004; with Q. Du. 
+            <a href="../my_papers/sci_agls.pdf" "target="frame2"> (pdf file)</a> </li>
+
+        <li> ``Approximations of a Ginzburg-Landau model for superconducting
+              hollow spheres based on spherical centroidal Voronoi 
+              tessellations'', <i>Math. Comp.</i>, Vol. <b>74</b>, pp. 1257-1280, 
+              2005; with Q. Du.
+              <a href="../my_papers/sci_nsgls.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Finite volume methods on spheres and spherical centroidal
+             Voronoi meshes'', <i>SIAM J. Numer. Anal.</i>, Vol. <b>43</b>, pp. 
+             1673-1692, 2005; with Q. Du. 
+             <a href="../my_papers/sci_fvmsscvt.pdf" "target="frame2"> (pdf file)</a> </li>
+
+        <li> ``Quantitative evaluation of three cortical surface flattening
+             methods'', <i>Neuroimage</i>, Vol. <b>28</b>, pp. 869-880, 2005; with D.
+             Rottenberg and <i>et al..</i> 
+             <a href="../my_papers/sci_qecsf.pdf" "target="frame2"> (pdf file)</a> </li>
+       
+       <li> ``Convergence of the Lloyd algorithm for computing centroidal Voronoi 
+            tessellations'', <i>SIAM J. Numer. Anal.</i>,  Vol. <b>44</b>, pp.
+            102-119, 2006; with Qiang Du and Maria Emelianenko. 
+            <a href="../my_papers/sci_lloyd.pdf" "target="frame2"> (pdf file)</a> </li>
+
+       <li> ``Centroidal Voronoi tessellation algorithms for image compression,
+             segmentation, and multichannel restoration'', <i>J. Math.
+             Imaging and Vision</i>,  Vol. <b>24</b>, pp.
+             177-194, 2006; with Q. Du, M. Gunzburger and X. Wang.
+             <a href="../my_papers/sci_cvtseg.pdf" "target="frame2"> (pdf file)</a> </li>
+       
+       <li> ``A numerical method for exact boundary controllability
+            problems for the 2-D wave equation'', <i>Comput. Math. Appl.</i>, Vol. 
+            <b>51</b>, pp. 721-750, 2006; with M. Gunzburger and L.S. Hou.
+            <a href="../my_papers/sci_wave2d.pdf" "target="frame2"> (pdf file)</a> </li>
+       
+       <li> ``Conforming centroidal Voronoi Delaunay triangulation for
+            quality mesh generation'', <i>Int. J. Numer. Anal. Model.</i>, to appear. 
+            <a href="../my_papers/meshgen.pdf" "target="frame2"> (pdf file)</a></li>
+       
+       <li> ``Adaptive finite element methods for elliptic PDEs based on conforming
+            centroidal Voronoi Delaunay triangulations'', <i>SIAM J. Sci. Comput.</i>,
+            to appear; with M. Gunzburger and W.D. Zhao. 
+            <a href="../my_papers/afemccvdt.pdf" "target="frame2"> (pdf file)</a></li>
+       
+       <li> ``Error estimates for a finite volume methods on general surfaces'',
+             submitted; with Qiang Du. 
+             <a href="../my_papers/fvmgs.pdf" "target="frame2"> (pdf file)</a> </li>    
+                            
+       <li> ``Convergence analysis of a splitting method for stochastic differential equations'', 
+            submitted; with W.D. Zhao and Li Tian. 
+            <a href="../my_papers/Num4SDEs.pdf" "target="frame2"> (pdf file)</a></li> 
+
+       <li> ``Constrained CVT meshes and a comparison of triangular mesh generators'', 
+             submitted, 2006; with H. Nguyen, J. Burkardt, M. Gunzburger and Yuki Saka.</li>
+             <a href="../my_papers/compccvt.pdf" "target="frame2"> (pdf file)</a> 
+
+       <li> ``Adaptive control volume vethods for convection-diffusion 
+              equations with mesh optimization'', in preparation; with W.D. Zhao. </li>
+
+       <li> ``An adaptive strategy for convection dominated problems with anisotropic 
+             mesh refinement'',
+             in preparation; with H. Nguyen, J. Burkardt and M. Gunzburger.</li>
+          
+    </ul>           
+</tr>
+</tbody></table></center>
+
+<hr width="750"> 
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left" >
+<img src="nex.gif" hspace="6" width="15"><b>My Collaborators</b>:
+<a href="http://www.csit.fsu.edu/~gunzburg" target="_blank">
+Max Gunzburger</a>,
+<a href="http://www.math.psu.edu/qdu" target="_blank">
+Qiang Du</a>,
+<a href="http://neurovia.umn.edu/home/dar" target="_blank">
+David Rottenberg</a>,
+<a href="http://www.math.iastate.edu/hou" target="_blank">
+Steven Hou</a>,
+<a href="http://www.ima.umn.edu/~wang" target="_blank">
+Xiaoqiang Wang</a>,
+<a href="http://www.andrew.cmu.edu/user/masha/" target="_blank">
+Maria Emelianenko</a>, ...
+<br>
+</tr>
+</tbody></table></center>
+
+<hr width="750">
+<center>
+<table cellpadding="4" width="750">
+   <tbody>
+    <tr>
+<td align="left">
+<img src="nex.gif" hspace="6" width="15">
+<a href="talks.html">
+<b>Seminars and Conferences</b></a>
+<br>
+</tr>
+</tbody></table></center>
+<hr width="750">
+<br>
+
+</body>
+</html>
